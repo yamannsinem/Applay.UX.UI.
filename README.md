@@ -1,116 +1,161 @@
-# Applay
-📱 Applay – Her Şeyi Keşfet, En İyilerini Bul!  Applay, favori uygulamalarını ve oyunlarını hızlıca keşfetmeni sağlayan yeni nesil uygulama mağazasıdır. En trend, en popüler ve seni en çok ilgilendiren uygulamalar tek bir yerde — kişiselleştirilmiş önerilerle!
+# AppPlay
+📱 Applay – AI Powered Hybrid App Marketplace
 
-Applay – App Marketplace UX/UI Design
-📌 Project Concept
+Applay, modern uygulama mağazalarının keşif, kategorilendirme ve görünürlük problemlerini çözmek amacıyla tasarlanmış yapay zeka destekli hibrit bir app marketplace UX/UI projesidir.
 
-Applay is a hybrid app marketplace interface that combines the structured ecosystem of the App Store with the dynamic discovery model of Google Play Store.
+Bu proje; App Store’un yapılandırılmış ekosistemini Google Play’in dinamik keşif modeliyle birleştirirken, AI destekli öneri sistemiyle kişiselleştirilmiş ve şeffaf bir keşif deneyimi sunmayı hedefler.
 
-The goal was to design a modern, scalable, and user-focused digital app marketplace that improves app discovery, categorization, and engagement across both mobile and web platforms.
+🚀 Proje Amacı
 
-🎯 Core Idea
+Mevcut uygulama mağazalarında sıkça görülen problemler:
 
-Existing app stores often suffer from:
+Aşırı kalabalık keşif sayfaları
 
-Overloaded discovery pages
+Algoritma mantığının belirsizliği
 
-Algorithm-driven recommendations without clarity
+Zayıf kategori mimarisi
 
-Visual inconsistency between mobile and web
+Uygulamaların görünürlük sorunu
 
-Weak categorization logic
+Mobil ve web arasında tasarım tutarsızlığı
 
-Applay reimagines the marketplace experience by:
+Yüksek bilişsel yük
 
-Prioritizing curated content
+Applay bu problemleri şu yaklaşımla yeniden tasarlar:
 
-Improving app visibility through structured layouts
+Küratörlü içerik önceliği
 
-Creating a balanced discovery + search model
+Yapılandırılmış kategori sistemi
 
-Designing a consistent cross-platform interface
+Dengeli keşif + arama modeli
 
-👤 Target Audience
+AI destekli kişiselleştirme
 
-Mobile-first users
+Tutarlı cross-platform tasarım dili
 
-Tech-savvy users who explore new apps
+🤖 AI Öneri Sistemi
 
-Developers looking for better app visibility
+Applay içerisinde yapay zeka destekli öneri mekanizması tasarlanmıştır.
 
-Users who prefer clean and minimal interfaces
+AI sistemi:
 
-🧠 UX Strategy
+Kullanıcı davranışlarını analiz eder
 
-This project includes:
+İlgi alanlarına göre uygulama önerir
 
-Marketplace information architecture planning
+Geçmiş indirme & etkileşim verisini dikkate alır
 
-Category and discovery structure design
+Trend + kişisel tercih dengesini kurar
 
-App detail page UX optimization
+Keşif sayfasını dinamik olarak adapte eder
 
-Rating & review interaction design
+Amaç yalnızca “algoritma” değil, kontrollü ve anlaşılır bir öneri deneyimi oluşturmaktır.
 
-Responsive layout adaptation (Mobile & Web)
+🧠 UX Stratejisi
 
-The focus was reducing cognitive load while improving navigation clarity.
+Proje kapsamında:
 
-📱 Mobile Interface
-Main Sections
+Marketplace information architecture planlandı
 
-Home (Featured + Recommendations)
+Keşif ve kategori akışı yeniden yapılandırıldı
+
+App detail page UX optimize edildi
+
+Rating & review etkileşimi tasarlandı
+
+AI öneri akışı kullanıcı deneyimine entegre edildi
+
+Mobile & Web responsive sistem kuruldu
+
+Odak noktası:
+Daha az bilişsel yük + daha net navigasyon + daha güçlü keşif deneyimi.
+
+📱 Mobil Arayüz
+
+Home (Featured + AI Recommendations)
 
 Categories
 
 App Detail Page
 
-Search
+Smart Search
 
 User Profile
 
-
-
-
-
-
-💻 Web Interface
-Main Sections
+💻 Web Arayüz
 
 Landing Page
 
-Featured Apps
+Featured & AI Suggested Apps
 
 Category Exploration
 
 App Detail View
 
-Dashboard
+User / Developer Dashboard
 
+🧩 İçerik Geliştirme
 
+Proje kapsamında yalnızca marketplace arayüzü değil, aynı zamanda sistem içerisinde yer alan örnek uygulamalar da tasarlanmıştır.
+
+Farklı kategoriler için örnek uygulamalar oluşturuldu
+
+Her uygulama için marka dili geliştirildi
+
+Uygulama içi arayüz tasarımları üretildi
+
+Bu uygulamalar marketplace sistemine entegre edildi
+
+Bu sayede:
+
+Gerçekçi ekosistem simülasyonu oluşturuldu
+
+Görsel tutarlılık test edildi
+
+Kategori yapısı senaryolar üzerinden doğrulandı
+
+AI öneri sistemi içerik üzerinde simüle edildi
 
 🎨 Design System
 
-Unified color palette
+Figma üzerinde tasarlanmıştır.
 
-Modular component structure
-
-Card-based layout system
-
-Typography hierarchy
-
-Grid-based responsive system
-
-Designed in Figma using:
+Kullanılan sistemler:
 
 Auto Layout
 
-Variants
-
-Components
+Components & Variants
 
 Design Tokens
+
+Grid-based responsive yapı
+
+Card-based modular sistem
+
+Unified color palette
+
+Typography hierarchy
+
+Tasarım sistemi ölçeklenebilir ve genişletilebilir şekilde planlanmıştır.
+
+👥 Hedef Kitle
+
+Mobil-first kullanıcılar
+
+Yeni uygulamalar keşfetmeyi seven kullanıcılar
+
+Temiz ve minimal arayüz tercih edenler
+
+Daha iyi görünürlük isteyen geliştiriciler
+
+📌 Proje Türü
+
+UX/UI Design Project
+AI-Integrated Marketplace Concept
+Cross-Platform Interface Design
+Information Architecture Study
 
 
 ### 🔗 Interactive Prototype
  [View Prototype](https://www.figma.com/proto/Sa2Hg2kru5x35k6GfsUZio/Applay-uygulama-Ma%C4%9Fazas%C4%B1--Copy-?node-id=0-1&t=9IgNFmxqMKtAPsrY-1)
+ [Design](https://www.figma.com/design/Sa2Hg2kru5x35k6GfsUZio/Applay-uygulama-Ma%C4%9Fazas%C4%B1--Copy-?node-id=0-1&t=9IgNFmxqMKtAPsrY-1)
